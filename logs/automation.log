@@ -1,0 +1,19 @@
+2025-05-31 10:53:14 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Vaibhav Sindhwani\eclipse-workspace\OpencartV121\master.xml"
+2025-05-31 10:54:06 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Vaibhav Sindhwani\eclipse-workspace\OpencartV121\master.xml"
+2025-05-31 10:54:09 INFO  TC001_AccountRegistrationTest:23 - ****Starting TC001_AccountRegistrationTest****
+2025-05-31 10:54:10 INFO  TC001_AccountRegistrationTest:28 - Clicked on MyAccount Link
+2025-05-31 10:54:10 INFO  TC001_AccountRegistrationTest:31 - Clicked on Register Link
+2025-05-31 10:54:10 INFO  TC001_AccountRegistrationTest:35 - Providing Customer details.....
+2025-05-31 10:54:14 INFO  TC001_AccountRegistrationTest:49 - Validating expected message.....
+2025-05-31 10:54:14 INFO  TC001_AccountRegistrationTest:66 - ****Finished TC001_AccountRegistrationTest****
+2025-05-31 10:54:16 INFO  TC002_LoginTest:15 - *****Starting TC002_LoginTest*******
+2025-05-31 10:54:18 INFO  TC002_LoginTest:40 - *****Finished TC002_LoginTest*********
+2025-05-31 11:15:29 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Vaibhav Sindhwani\eclipse-workspace\OpencartV121\master.xml"
+2025-05-31 11:15:32 INFO  TC001_AccountRegistrationTest:23 - ****Starting TC001_AccountRegistrationTest****
+2025-05-31 11:15:32 INFO  TC001_AccountRegistrationTest:28 - Clicked on MyAccount Link
+2025-05-31 11:15:32 INFO  TC001_AccountRegistrationTest:31 - Clicked on Register Link
+2025-05-31 11:15:32 INFO  TC001_AccountRegistrationTest:35 - Providing Customer details.....
+2025-05-31 11:15:36 INFO  TC001_AccountRegistrationTest:49 - Validating expected message.....
+2025-05-31 11:15:36 INFO  TC001_AccountRegistrationTest:66 - ****Finished TC001_AccountRegistrationTest****
+2025-05-31 11:15:38 INFO  TC002_LoginTest:15 - *****Starting TC002_LoginTest*******
+2025-05-31 11:15:39 INFO  TC002_LoginTest:40 - *****Finished TC002_LoginTest*********
